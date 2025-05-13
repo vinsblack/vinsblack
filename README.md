@@ -28,3 +28,4 @@
 
 > “L’AI è uno strumento, ma la vera innovazione nasce dalla curiosità.”
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-vinsblack-blueviolet?logo=github)](https://github.com/sponsors/vinsblack)
